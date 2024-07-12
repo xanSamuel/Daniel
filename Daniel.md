@@ -1,4 +1,4 @@
-# Daniel
+
 # RWA Tokenization: Centrifuge
 
 ## Introduction
